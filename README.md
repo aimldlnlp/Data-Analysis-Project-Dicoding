@@ -12,3 +12,7 @@ This project aims to analyze bike rentals from 2011 to 2012 🚲. The dashboard 
 - Clone this repository to your local machine using the following command:
   ```bash
   git clone https://github.com/aimldlnlp/Data-Analysis-Project-Dicoding.git
+- Install library:
+  ```
+  pip install streamlit
+  ```
