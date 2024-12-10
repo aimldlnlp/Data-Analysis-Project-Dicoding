@@ -1,4 +1,4 @@
-# Submission Project Dicoding Data Analysis with Python ✨
+# Bike Sharing Data Analysis and Prediction
 
 ## Description
 This project aims to analyze bike rentals from 2011 to 2012 🚲. The dashboard utilizes the Exponential Smoothing method to predict bike rental demand and provides important insights into usage patterns.
