@@ -6,7 +6,7 @@ import seaborn as sns
 from statsmodels.tsa.holtwinters import ExponentialSmoothing
 
 # Load the dataet
-data = pd.read_csv(r"C:\Users\Zidan\Documents\Kuliah\Semester 5\Bangkit ML\Data Analysis WIth Python\Dashboard\hour.csv")
+data = pd.read_csv('./Dataset/hour.csv)
 
 # Dashboard Title
 st.title("Bike Rental Demand Dashboard")
