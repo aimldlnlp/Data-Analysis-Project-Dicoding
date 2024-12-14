@@ -6,7 +6,7 @@ import streamlit as st
 
 sns.set(style="whitegrid")
 
-df_day = pd.read_csv("day.csv")
+df_day = pd.read_csv("Dataset/day.csv")
 df_day["dteday"] = pd.to_datetime(df_day["dteday"])
 df_day["year"] = df_day["dteday"].dt.year
 
