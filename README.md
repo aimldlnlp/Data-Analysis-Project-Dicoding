@@ -19,6 +19,6 @@ This project aims to analyze bike rentals from 2011 to 2012 🚲. The dashboard 
 ## Usage
 - Navigate to the project directory (local):
   ```bash
-  cd Data-Analysis-Project-Dicoding/Dashbaord/streamlit run main.py
+  cd Data-Analysis-Project-Dicoding/Dashboard/streamlit run main.py
 
 
